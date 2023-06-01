@@ -10,7 +10,7 @@ My name is **Yen Nguyen**. I enter the IT industry quite late in life but I have
 - 😄 Pronouns: She/her
 - 💬 Ask me about how to cook Vietnamese food.
 - ⚡ Fun fact: crazy for exploring new places with good food, cooking and karaoke.
-- 📫 How to reach me: nguyenthikimyen25@gmail.com, [My LinkedIn page](https://www.linkedin.com/in/yen-nguyen-76340440/)
+- 📫 How to reach me: [My LinkedIn page](https://www.linkedin.com/in/yen-nguyen-76340440/)
 
 ---
 
