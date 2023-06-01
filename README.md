@@ -10,6 +10,7 @@ My name is **Yen Nguyen**. I enter the IT industry quite late in life but I have
 - 😄 Pronouns: She/her
 - 💬 Ask me about how to cook Vietnamese food.
 - ⚡ Fun fact: crazy for exploring new places with good food, cooking and karaoke.
+- 📫 How to reach me: nguyenthikimyen25@gmail.com, [My LinkedIn page](https://www.linkedin.com/in/yen-nguyen-76340440/)
 
 ---
 
@@ -22,10 +23,10 @@ My name is **Yen Nguyen**. I enter the IT industry quite late in life but I have
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Worpress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
 </div>
-
+<!-- 
 ### Reach me at:
 - My Email: nguyenthikimyen25@gmail.com
-- [My LinkedIn page](https://www.linkedin.com/in/yen-nguyen-76340440/)
+- [My LinkedIn page](https://www.linkedin.com/in/yen-nguyen-76340440/) -->
 <!-- - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
