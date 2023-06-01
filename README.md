@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="http://howareyounorway.no/wp-content/uploads/2023/06/cover4.webp" alt="cover image"/>
+</div>
 ### Hi there 👋
 My name is **Yen Nguyen**. I enter the IT industry quite late in life but I have enough passion for a long way.
 - 🌱 I’m currently a Frontend student and eager to start my journey into the world of Frontend developers. 
