@@ -3,10 +3,11 @@
 </div>
 
 ### Hi there 👋
-My name is **Yen Nguyen**. I enter the IT industry quite late in life but I have enough passion for a long way.
+My name is **Yen Nguyen**. I enter the IT industry quite late in life but I believe I am a passionate and dedicated developer.
+
 - 🌱 I’m currently a Frontend student and eager to start my journey into the world of Frontend developers. 
 - 👯 I love working in teams to learn, collaborate and experience together.
-- 🤔 I’m looking for a job or an internship.
+- 🤔 I constantly seek opportunities to learn, grow, and explore new front-end technologies.
 - 😄 Pronouns: She/her
 - 💬 Ask me about how to cook Vietnamese food.
 - ⚡ Fun fact: crazy for exploring new places with good food, cooking and karaoke.
