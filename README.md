@@ -5,7 +5,7 @@
 ### Hi there 👋
 My name is **Yen Nguyen**. I enter the IT industry quite late in life but I believe I am a passionate and dedicated developer.
 
-- 🌱 I’m currently a Frontend student and eager to start my journey into the world of Frontend developers. 
+- 🌱 I’m currently a Frontend student at Noroff - School of technology and digital media in Norwy and eager to start my journey into the world of Frontend developers. 
 - 👯 I love working in teams to learn, collaborate and experience together.
 - 🤔 I constantly seek opportunities to learn, grow, and explore new front-end technologies.
 - 😄 Pronouns: She/her
