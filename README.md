@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://howareyounorway.no/wp-content/uploads/2023/06/cover4.webp" alt="cover image" width="600px"/>
+  <img src="http://yen-nguyen.no/wp-content/uploads/2023/10/cover4-scaled.webp" alt="cover image" width="600px"/>
 </div>
 
 ### Hi there 👋
